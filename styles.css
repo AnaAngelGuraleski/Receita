@@ -5,13 +5,12 @@
     --claro:#f6f5da;
 }
 
-head{
+    
+
+header{
     background-color: var(--bordo);
 }
 
-header{
-    background-color: var(--rosa);
-}
-
 body{
+    background-color: var(--rosa);
 }
