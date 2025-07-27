@@ -1,3 +1,17 @@
 :root{
-    
+    --bordo:#810e0b;
+    --rosa:#febea3;
+    --pastel:#fce5b1;
+    --claro:#f6f5da;
+}
+
+head{
+    background-color: var(--bordo);
+}
+
+header{
+    background-color: var(--rosa);
+}
+
+body{
 }
