@@ -24,7 +24,17 @@ body{
     align-items: center;
 }
  
-p{
+monoffe{
     display: flex;
     text-align: center;
+}
+
+torta de morango com bis{
+     display: flex;
+    text-align: center;
+}
+
+
+footer{
+    background-color: var(--bordo);
 }
