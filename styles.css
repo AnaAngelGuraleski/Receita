@@ -19,7 +19,7 @@ body{
     box-sizing: border-box;
 }
 
-#tortilha{
+.tortilha{
     display: flex;
     align-items: center;
 }
