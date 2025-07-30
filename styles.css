@@ -7,7 +7,7 @@
 
 header{
     background-color: var(--bordo);
-     display: flex;
+    display: flex;
     text-align: center;
     color: var(--pastel);
 }
@@ -27,4 +27,8 @@ body{
 footer{
     background-color: var(--bordo);
     color: var(--pastel);
+}
+
+.tartaleta {
+    display: flex;
 }
