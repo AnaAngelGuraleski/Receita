@@ -7,13 +7,15 @@
 
 header{
     background-color: var(--bordo);
+     display: flex;
+    text-align: center;
+    color: var(--pastel);
 }
 
 body{
     background-color: var(--rosa);
-    color: var(--pastel);
-    display: flex;
-    text-align: center;
+   
+   
 }
 
 *{
@@ -21,22 +23,6 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
-
-.tortilha{
-    display: flex;
-    align-items: center;
-}
- 
-monoffe{
-    display: flex;
-    text-align: center;
-}
-
-torta de morango com bis{
-     display: flex;
-    text-align: center;
-}
-
 
 footer{
     background-color: var(--bordo);
