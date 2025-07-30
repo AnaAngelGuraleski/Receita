@@ -11,6 +11,9 @@ header{
 
 body{
     background-color: var(--rosa);
+    color: var(--pastel);
+    display: flex;
+    text-align: center;
 }
 
 *{
