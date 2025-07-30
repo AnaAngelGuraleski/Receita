@@ -24,3 +24,7 @@ body{
     align-items: center;
 }
  
+p{
+    display: flex;
+    text-align: center;
+}
