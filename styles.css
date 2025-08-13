@@ -41,26 +41,33 @@ footer{
     display: flex;
 }
 
-.lista-vertical {
-    display: none;
-    position: absolute;
-    background-color: var(--roxo-claro);
-    box-shadow: 0 2px 5px var(--marinho);
-    min-width: 190px;
-    z-index: 1;
-    left: 1rem;
-    top: 100%;
+
+.links-principais {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.lista-vertical a {
-    color: var(--preto);
-    padding: 0.75rem 1rem;
-    text-decoration: none;
+
+.lista-horizontal {
+    list-style: none;
+    display: flex;
     font-size: 2rem;
-    display: block;
-    text-align: center;
+    gap: 17rem;
 }
 
-.lista-vertical a:hover {
-    background-color: var(--amarelo-claro);
+
+.lista-horizontal a {
+    text-decoration: none;
+    color: var(--amarelo-claro);
+}
+
+.lista-horizontal a:hover {
+    color: var(--preto);
+}
+
+main {
+    margin: 40px auto;
+    padding: 20px;
 }
